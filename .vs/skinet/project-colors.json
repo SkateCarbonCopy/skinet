@@ -5,7 +5,22 @@
       "ProjectGuid": "48a42872-7307-4ae8-9ece-c1f616240847",
       "DisplayName": "API",
       "ColorIndex": 0
+    },
+    "20cb7e68-2c7d-4bd8-b858-ea47f105d529": {
+      "ProjectGuid": "20cb7e68-2c7d-4bd8-b858-ea47f105d529",
+      "DisplayName": "Core",
+      "ColorIndex": 1
+    },
+    "c8654399-8a89-437e-b959-9fde226976ba": {
+      "ProjectGuid": "c8654399-8a89-437e-b959-9fde226976ba",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 2
+    },
+    "5fa6d682-1cc8-44ae-9701-a337acd79cef": {
+      "ProjectGuid": "5fa6d682-1cc8-44ae-9701-a337acd79cef",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 4
 }
