@@ -12,7 +12,7 @@ import { ShopService } from './shop.service';
   styleUrls: ['./shop.component.scss']
 })
 export class ShopComponent implements OnInit {
-  @ViewChild('search', {static: true}) searchTerm: ElementRef;
+  @ViewChild('search', {static: false}) searchTerm: ElementRef;
   //if the search field was in an ng-if it would be static false
   //since we know it will always be there static = true
   // after NG9 static defaults to false
